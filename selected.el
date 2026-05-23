@@ -35,7 +35,7 @@
   "Keymap for when the region is active."
   :prefix "selected-"
   :group 'convenience
-  :link '(url-link "https://github.com/Kungsgeten/selected.el"))
+  :link '(url-link :tag "Website" "https://github.com/Kungsgeten/selected.el"))
 
 (defcustom selected-ignore-modes
   nil
